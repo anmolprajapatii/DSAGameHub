@@ -1,0 +1,22 @@
+.root {
+    -fx-base: #333333;
+    -fx-background: #444444;
+    -fx-control-inner-background: #555555;
+    -fx-text-fill: #f0f0f0;
+}
+
+.button {
+    -fx-background-color: #555555;
+    -fx-text-fill: #f0f0f0;
+    -fx-border-color: #666666;
+}
+
+.text-field {
+    -fx-background-color: #555555;
+    -fx-text-fill: #f0f0f0;
+    -fx-border-color: #666666;
+}
+
+.text {
+    -fx-fill: #f0f0f0;
+}
